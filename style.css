@@ -1,0 +1,81 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: cyan;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #333;
+    color: white;
+}
+
+.main-heading {
+    color: #fff;
+    font-size: 3em;
+}
+
+.intro {
+    color: #ddd;
+    font-size: 1.2em;
+    line-height: 1.8;
+}
+
+.section-title {
+    color: #333;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.content-text {
+    font-size: 1.2em;
+    color: #555;
+    line-height: 1.6;
+    margin: 20px 0;
+    padding: 0 15px; 
+}
+
+.service {
+    margin-bottom: 30px;
+}
+
+.service-title {
+    font-size: 1.8em;
+    color: #333;
+}
+
+.styled-image {
+    width: 80%;
+    max-width: 800px;
+    border: 5px solid #ccc;
+    display: block;
+    margin: 20px auto;
+}
+
+#contact-section {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    margin-top: 50px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+    margin-top: 50px;
+}
+
+.footer-text {
+    font-size: 1em;
+}
+
+#contact-section:hover {
+    background-color: #f0f0f0;
+    transition: background-color 0.5s;
+}
+
